@@ -1,0 +1,8 @@
+DATABASE STRUCTURE
+SHEETS:
+	Islands:
+		Size, Commodities, Governing Flag, Available Industries
+	Distances
+		In between, Leagues, cardinal direction, merch bigs or no
+	Deals
+		Islands involved, cost, return, absolute proift, turn around time, ambient value

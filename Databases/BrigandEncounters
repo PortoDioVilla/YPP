@@ -1,0 +1,5 @@
+POISSON DISTRIBUTION OF BRIGANDS
+Measure: Time between seeing brigands. 
+Naive hypothesis: Brigands appear and disappear  randomly
+Null hypothesis: Brigands are generated at a consistent time, and do not disappear until reaching a new island.
+Proposed hypothsis: Brigands functionas above, but encounters follow Poisson distribution.
